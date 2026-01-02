@@ -1,2 +1,18 @@
-# Titanic-Dataset-Project-
-This project performs exploratory data analysis on the Titanic dataset using Python. It includes data cleaning, feature extraction, and visualization to understand survival patterns. The project demonstrates strong EDA skills using NumPy, Pandas, Matplotlib, and Seaborn.
+# Titanic Exploratory Data Analysis (EDA) Project
+
+## Overview
+This project performs Exploratory Data Analysis (EDA) on the Titanic dataset using Python. The goal is to understand passenger survival patterns through data cleaning, feature extraction, and visualization.
+
+## Key Work
+- Dataset loading and inspection
+- Handling missing values
+- Feature extraction from passenger data
+- Exploratory data analysis (EDA)
+- Visualizing relationships between features and survival
+
+## Tech Stack
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
